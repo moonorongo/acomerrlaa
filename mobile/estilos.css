@@ -1,0 +1,29 @@
+body {
+  background-color: #ffbb2f;
+  margin: 0;
+  padding: 10px 0 0 10px;
+  font-family: arial;
+  font-size: 16px;
+}
+
+
+img {
+    border: 0;
+    padding: 0 0 0 80px;
+    margin: 0;
+}
+
+a { text-decoration: none; color: red;}
+
+table {
+  width: 500px;
+}
+
+table td {
+  border-bottom: 1px dashed #c3451c;
+  padding: 5px 0 5px 0;
+}
+
+h3 {
+  color: red;
+}
